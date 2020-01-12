@@ -1,5 +1,4 @@
 # InterviewAppBackEnd
-Backend project to Scalable
 
 To run this project please:
 1. Clone the repository and got till the folder;
